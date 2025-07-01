@@ -2,9 +2,6 @@
 
 This project helps an online education provider (X Education) identify the most promising leads, enabling its sales team to focus on high-conversion opportunities and reduce wasted effort. The objective is to score leads using historical interaction data and rank them based on conversion probability.
 
-##  Project by
-Shawn Wilson
-
 ##  My Contributions
 - Cleaned and processed a dataset with 9,000+ rows and 30+ features
 - Engineered features, handled missing data, and applied scaling/dummy encoding
